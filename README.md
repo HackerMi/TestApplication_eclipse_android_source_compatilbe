@@ -1,0 +1,1 @@
+# TestApplication_eclipse_android_source_compatilbe
